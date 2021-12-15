@@ -14,6 +14,8 @@ show_toc: false
 'BP/blocks/example.block.json',
 
 'BP/biomes/example.biome.json',
+                    
+'BP/dialogue/example.dialogue.json',
 
 'BP/entities/example.se.json',
 
